@@ -45,6 +45,4 @@ This project highlights the power of C++ on the server side combined with standa
 
 ---
 
-## 📁 Project Structure
-
 
