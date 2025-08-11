@@ -61,3 +61,5 @@ LOCK TABLES `userinfo` WRITE;
 INSERT INTO `userinfo` VALUES (197,'Ram Bahadur','Syanjga','ram@bahadur.com'),(198,'Jaja Bahadur','Jhapa','haha@bahadur.com'),(199,'Dam Bahadur','Dhanghadi','dam@bahadur.com'),(200,'Sangam Adhikari','Pokhara','sangam@adhikari.com'),(201,'Hemendu Kumar','Patna','kumar@gmail.com'),(202,'Hemendu Kumar','Patna','kumar@gmail.com'),(203,'ljldlksaj','kjsdlf','sfsfss@gmail.com'),(204,'Hemendu kumar','Patna','kumar@gmail.com'),(205,'Hemendu Kumar','Patna','kumar@gmail.com'),(206,'Shubham Kumar','Patna','Kumarshubham@gmail.com'),(207,'Rishav Kumar','Patna','kumarrishav@gmail.com'),(208,'Anshu','kolkata','anshu@gmail.com'),(209,'Rishav','Patna','kumar@gmail.com'),(210,'Rishav','patna','kumar@gmail.com'),(211,'shivu','patna','kumar@gmail.com'),(212,'Hemendu Kumar','Patna','kumar@gmail.com'),(213,'shubham kumar','patna','kumar@gmail.com');
 
 UNLOCK TABLES;
+
+-- exit
